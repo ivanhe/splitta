@@ -1,3 +1,13 @@
+Splitta with Batch Mode
+
+Added batch processing for a list of text files.
+
+python batch_sbd.py input_list.txt output_list.txt
+
+Original README
+
+-----
+
 Improved Sentence Boundary Detection
 
 Dan Gillick
